@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BlackboardGameplayTags.cpp.obj": [
+			"BlackboardGameplayTags.init.gen.cpp.obj",
+			"BlackboardGameplayTagFunctionLibrary.cpp.obj",
+			"BlackboardGameplayTagsModule.cpp.obj",
+			"BlackboardKeyTypeExt_GameplayTag.cpp.obj",
+			"BlackboardKeyTypeExt_GameplayTagContainer.cpp.obj"
+		]
+	}
+}

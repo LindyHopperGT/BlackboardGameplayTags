@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.6",
+	"FriendlyName": "Blackboard GameplayTags",
+	"Description": "Plugin to add GameplayTag and GameplayTagContainer support to UE Blackboards",
+	"CreatedBy": "Riot Games, Inc.",
+	"CreatedByURL": "https://github.com/MothCocoon/FlowGraph/graphs/contributors",
+	"DocsURL": "https://github.com/MothCocoon/FlowGraph/wiki",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.gg/zMtMQ2vUUa",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlackboardGameplayTags",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
